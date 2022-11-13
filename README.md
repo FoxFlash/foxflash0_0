@@ -1,1 +1,5 @@
-# foxflash0_0
+Olá meu consagrado.
+
+Estudar
+Estudar
+Estudar
