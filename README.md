@@ -1,8 +1,3 @@
-Olá meu consagrado.
-
-Estudar
-Estudar
-Estudar
 
 <div align="center">
   <a href="https://github.com/FoxFlash">
